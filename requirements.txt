@@ -1,0 +1,4 @@
+#Biblioteca para gerenciamento e utilização de modelos do Hugging Face
+transformers
+#Biblioteca necessária para rodar o notebook main.ipynb responsável por gerar o arquivo de classificação e os gráficos
+jupyter
